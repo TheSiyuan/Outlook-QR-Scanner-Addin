@@ -1,0 +1,3 @@
+﻿  QrCodeGeneratorWorker.cpp
+E:\VS Project\GitHub\QR Code Things\selftesting C++\nayuki lib\QrCodeGeneratorWorker.cpp(94,44): warning C4101:  'ex': unreferenced local variable
+  qrgenerator.vcxproj -> E:\VS Project\GitHub\QR Code Things\selftesting C++\qrgenerator\Debug\qrgenerator.exe
