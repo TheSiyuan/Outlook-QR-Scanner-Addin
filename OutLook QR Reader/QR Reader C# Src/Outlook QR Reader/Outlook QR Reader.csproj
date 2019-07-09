@@ -30,7 +30,7 @@
     <DefineConstants>VSTO40</DefineConstants>
     <IsWebBootstrapper>False</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>E:\VS Project\GitHub\TheSiyuan.GitHub.io\OutLook QR Reader\</PublishUrl>
+    <PublishUrl>Z:\System\vs publish\QR Code Scanner\</PublishUrl>
     <InstallUrl />
     <TargetCulture>en</TargetCulture>
     <ApplicationVersion>1.0.0.3</ApplicationVersion>
