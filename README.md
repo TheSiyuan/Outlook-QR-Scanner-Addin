@@ -12,4 +12,5 @@ Current Build 1.0.0.3 - Steady
 Future functions (maybe)...
 - turn curser into a box??
 - dim down the rest of screen except for curser box area??
-more to come??
+- Add generator to Outlook (but why?)
+- more to come??
